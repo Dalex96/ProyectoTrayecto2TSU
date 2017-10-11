@@ -1,0 +1,2 @@
+# nano build/webpack.base.conf.js
+y se elimina el objeto que tenga el nombre del error: eslint
