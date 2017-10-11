@@ -1,6 +1,6 @@
 # Proyecto TSU
 
-> sistema de encuestas 2017 
+> aplicacion aida 2017 
 
 ## Build Setup
 
